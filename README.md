@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pat-Gray
 - 👀 I’m a passionate climber living in Wanaka.
-- 🌱 I’m currently learning Full stack development.
+- 🌱 I do full stack development.
 - 📫 Reach me at patrickgray1996@gmail.com.
 - ⚡ Fun fact: Passionate Irish Whistle Player.
 
